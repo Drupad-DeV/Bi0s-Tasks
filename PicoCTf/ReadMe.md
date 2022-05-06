@@ -5,7 +5,7 @@
 <h2>
 Challenges that I solved</h2>
 
-* Obidient Cat[here](Drupad-DeV/Bi0s-Tasks/PicoCTF/Obidient-Cat)
+* [Obidient Cat](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Obidient%20Cat)
 
 * Mod 26
 * Python Wragling
