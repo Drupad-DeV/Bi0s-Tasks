@@ -5,7 +5,7 @@
 <h2>
 Challenges that I solved</h2>
 
-* [Obidient Cat](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Obidient%20Cat)
+* [Obidient Cat](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Obedient%20Cat)
 
 * [Mod 26](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Mod%2026)
 * [Python Wragling](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Python%20Wragling)
