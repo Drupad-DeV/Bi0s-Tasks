@@ -1,4 +1,4 @@
-<div align="center"> <h1> Obedient Cat</h1></div>
+<div align="center"> <h1> Python  Wragling</h1></div>
 <img align = "right" src = "https://img.shields.io/badge/Points-5%20-blueviolet" width = 80>
 <img align = "left" src = "https://img.shields.io/badge/Catagory-Genral%20Skills-yellow" width = 150>
 <br><br> <h4>
