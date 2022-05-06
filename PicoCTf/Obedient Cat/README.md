@@ -7,7 +7,7 @@ PicoCTF <b><a href= "https://play.picoctf.org/practice/challenge/147?page=1"> Ob
 ### Solution: 
 
 - To get the file accessible in your shell, enter the following in the Terminal :
-'''sh
-cat flag
-picoCTF{s4n1ty_v3r1f13d_28e8376d}
-'''
+```sh
+$ cat flag
+$ picoCTF{s4n1ty_v3r1f13d_28e8376d}
+```
