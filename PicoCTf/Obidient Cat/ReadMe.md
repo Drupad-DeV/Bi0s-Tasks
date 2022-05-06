@@ -1,4 +1,4 @@
-# <center>Obidient Cat</center>
+# <center>Obedient Cat</center>
 <img align = "right" src = "https://img.shields.io/badge/Points-5%20-blueviolet" width = 80>
 <img align = "left" src = "https://img.shields.io/badge/Catagory-Genral%20Skills-yellow" width = 150>
 <br><br> <h4>
