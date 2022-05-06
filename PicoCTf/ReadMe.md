@@ -9,6 +9,7 @@ Challenges that I solved</h2>
 
 * [Mod 26](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Mod%2026)
 * [Python Wragling](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Python%20Wragling)
-* Wave a flag
+* [Wave a flag](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Wave%20a%20flag)
 * Information
 * Nice Netcats
+* GET aHEAD
