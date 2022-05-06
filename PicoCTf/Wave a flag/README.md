@@ -1,4 +1,5 @@
-<div align="center"> <h1> Wave a Flag</h1></div>
+<img src="https://i.ibb.co/6HLF9Pj/giphy.gif" alt="giphy" border="0" align = "right" width = 100 height = 100>
+<div align="center"> <h1> Wave a Flag</h1> </div> 
 <img align = "right" src = "https://img.shields.io/badge/Points-10-blueviolet" width = 100>
 <img align = "left" src = "https://img.shields.io/badge/Catagory-Genaral%20Skills-yellow" width = 150>
 <br><br> <h4>
