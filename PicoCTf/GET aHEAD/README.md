@@ -1,4 +1,4 @@
-<div align="center"> <h1> GETaHEAD</h1></div>
+<div align="center"> <h1> GET aHEAD</h1></div>
 <img align = "right" src = "https://img.shields.io/badge/Points-20%20-blueviolet" width = 80>
 <img align = "left" src = "https://img.shields.io/badge/Catagory-Web%20Exploitation-yellow" width = 150>
 <br><br> <h4>
