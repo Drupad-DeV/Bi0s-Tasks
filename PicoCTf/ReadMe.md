@@ -12,4 +12,4 @@ Challenges that I solved</h2>
 * [Wave a flag](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Wave%20a%20flag)
 * [Information](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Information)
 * [Nice Netcats](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Nice%20Netcats)
-* GET aHEAD
+* [GET aHEAD](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/GETaHEAD)
