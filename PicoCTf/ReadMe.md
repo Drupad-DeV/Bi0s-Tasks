@@ -11,5 +11,5 @@ Challenges that I solved</h2>
 * [Python Wragling](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Python%20Wragling)
 * [Wave a flag](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Wave%20a%20flag)
 * [Information](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Information)
-* Nice Netcats
+* [Nice Netcats](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Nice%20Netcats)
 * GET aHEAD
