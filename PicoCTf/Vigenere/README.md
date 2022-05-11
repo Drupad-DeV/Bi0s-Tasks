@@ -1,5 +1,5 @@
 <div align="center"> <h1> Vigenere</h1></div>
-<img align = "right" src = "https://img.shields.io/badge/Points-50%20-blueviolet" width = 80>
+<img align = "right" src = "https://img.shields.io/badge/Points-100%20-blueviolet" width = 80>
 <img align = "left" src = "https://img.shields.io/badge/Catagory-Cryptography-yellow" width = 150>
 <br><br> <h4>
 PicoCTF <b><a href= "https://play.picoctf.org/practice/challenge/68?page=1"> The Numbers.</a></b></h4>
