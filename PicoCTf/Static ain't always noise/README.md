@@ -93,3 +93,5 @@ $ cat static.ltdis.strings.txt
    1969 .bss
    196e .comment
 ```
+- Flag:
+```picoCTF{d15a5m_t34s3r_ccb2b43e}```
