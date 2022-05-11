@@ -15,7 +15,7 @@ Challenges that I solved</h2>
 * [Glory To the Garden](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Glory%20of%20the%20Garden)
 * [Static ain't always noise](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Static%20ain't%20always%20noise)
 * [Tab, Tab, Attack](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Tab,%20Tab,%20Attack)
-* The Numbers
-* caesar
-* Vigenere
-* login 
+* [The Numbers](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/The%20Numbers)
+* [caesar](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/caeser)
+* [Vigenere](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Vigenere)
+* [login](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/login) 
