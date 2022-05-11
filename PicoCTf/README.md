@@ -13,5 +13,5 @@ Challenges that I solved</h2>
 * [Nice Netcats](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Nice%20Netcats)
 * [GET aHEAD](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/GETaHEAD)
 * [Glory To the Garden](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Glory%20of%20the%20Garden)
-* Static ain't always noise
+* [Static ain't always noise](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Static%20ain't%20always%20noise)
 * Tab, Tab, Attack
