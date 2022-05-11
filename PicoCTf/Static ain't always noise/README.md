@@ -1,8 +1,8 @@
-<div align="center"> <h1> Obedient Cat</h1></div>
+<div align="center"> <h1> Static ain't alwatys noise</h1></div>
 <img align = "right" src = "https://img.shields.io/badge/Points-5%20-blueviolet" width = 80>
 <img align = "left" src = "https://img.shields.io/badge/Catagory-Genral%20Skills-yellow" width = 150>
 <br><br> <h4>
-PicoCTF <b><a href= "https://play.picoctf.org/practice/challenge/147?page=1"> Obidient Cat. </a></b></h4>
+PicoCTF <b><a href= "https://play.picoctf.org/practice/challenge/163?page=1"> Static ain't always Noise </a></b></h4>
 
 ## Description:
 - Can you look at the data in this binary: static? This BASH script might help!
@@ -94,4 +94,5 @@ $ cat static.ltdis.strings.txt
    196e .comment
 ```
 - Flag:
+
 ```picoCTF{d15a5m_t34s3r_ccb2b43e}```
