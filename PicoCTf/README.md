@@ -19,4 +19,4 @@ Challenges that I solved</h2>
 * [caesar](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/caeser)
 * [Vigenere](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Vigenere)
 * [login](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/login) 
-* Insp3ct0r
+* [Insp3ct0r](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Insp3ct0r)
