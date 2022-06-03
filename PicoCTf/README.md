@@ -1,4 +1,4 @@
-<img src ="https://img.shields.io/badge/PicoGym%20Score-570%20-blueviolet" width = 150 /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href ="https://play.picoctf.org/users/Stephen_Nedumbally"><img src ="https://img.shields.io/badge/PicoCTF%20Username-Stephen__Nedumbally%20-brightgreen" width = 320 /></a>
+<img src ="https://img.shields.io/badge/PicoGym%20Score-670%20-blueviolet" width = 150 /> &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <a href ="https://play.picoctf.org/users/Stephen_Nedumbally"><img src ="https://img.shields.io/badge/PicoCTF%20Username-Stephen__Nedumbally%20-brightgreen" width = 320 /></a>
 <a href ="https://play.picoctf.org/practice?"><img src ="https://picoctf.org/img/logos/picoctf-logo-horizontal-white.svg" align = "right" /></a>
 
 # PicoCTF 
@@ -20,3 +20,4 @@ Challenges that I solved</h2>
 * [Vigenere](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Vigenere)
 * [login](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/login) 
 * [Insp3ct0r](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Insp3ct0r)
+* [Inspect HTML](https://github.com/Drupad-DeV/Bi0s-Tasks/tree/main/PicoCTf/Inspect%20HTML)
