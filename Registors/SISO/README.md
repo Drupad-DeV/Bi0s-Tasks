@@ -1,1 +1,2 @@
-# Some things about SISO Registors
+# SISO 
+### Things are getting cooked!
