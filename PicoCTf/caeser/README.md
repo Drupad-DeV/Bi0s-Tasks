@@ -10,7 +10,7 @@ PicoCTF <b><a href= "https://play.picoctf.org/practice/challenge/68?page=1"> Cae
 ### Solution: 
 
 - The flag was encoded by caeser cipher.
-- SO using the decode.fr website after bruteforcing all the posible flags i got a meaningfull sentence on 22 Shift.
+- SO using the decode.fr website after bruteforcing all the posible flags i got a meaningfull sentence on 22nd Shift.
 - Hence resulting in the flag
 
 ```
