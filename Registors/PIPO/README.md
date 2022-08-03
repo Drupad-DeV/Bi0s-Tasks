@@ -15,4 +15,4 @@
 
 ![image](https://user-images.githubusercontent.com/100958162/182662116-bf7d6f4e-f57f-4433-a699-d423860d98c6.png)
 
-<a href = "https://www.tinkercad.com/things/eHmVNlHqxin-pipo/editel"> <img src ="https://img.shields.io/badge/Thinkercad%20File-SISO%20Shift%20Registor%20-brightgreen" width = 320 align = center> </a>
+<a href = "https://www.tinkercad.com/things/eHmVNlHqxin-pipo/editel"> <img src ="https://img.shields.io/badge/Thinkercad%20File-PIPO%20Shift%20Registor%20-brightgreen" width = 320 align = center> </a>
